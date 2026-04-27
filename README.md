@@ -18,3 +18,5 @@ A console-based Connect Four game built using Object-Oriented Programming princi
 - **HumanPlayer** - inherits from Player, gets move from console input
 - **GameController** - runs the game loop and manages turns
 - **GameView** - handles all console output
+- **Video** - https://www.youtube.com/watch?v=ETfT_Vjtfus&feature=youtu.be
+  
